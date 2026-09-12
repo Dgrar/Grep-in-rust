@@ -1,0 +1,9 @@
+2026-03-12 08:01:23 [INFO] Servidor iniciado correctamente en el puerto 8080.
+2026-03-12 08:05:44 [INFO] Conexión establecida desde la IP 192.168.1.15.
+2026-03-12 08:10:12 [WARN] Intento de inicio de sesión fallido para el usuario 'admin'.
+2026-03-12 08:15:00 [INFO] Copia de seguridad automática completada con éxito.
+2026-03-12 08:32:19 [ERROR] Base de datos no responde. Timeout excedido.
+2026-03-12 08:32:20 [ERROR] No se pudo guardar el carrito de compras del usuario #442.
+2026-03-12 08:40:05 [INFO] Conexión establecida desde la IP 192.168.1.99.
+2026-03-12 08:45:11 [WARN] Uso de CPU elevado: 88% detectado.
+2026-03-12 09:00:00 [INFO] Tarea programada 'limpieza_cache' ejecutada.
